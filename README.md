@@ -6,6 +6,7 @@ I'm a Computer Science graduate transitioning from data analytics into data engi
 
 🔭 Currently building: an end-to-end YouTube data pipeline using Airflow, Docker, and PostgreSQL, with data quality testing and CI/CD
 🌱 Currently learning: dbt, SODA data quality checks, and GitHub Actions for pipeline CI/CD
+
 💬 Ask me about: SQL, Python (pandas), ETL/ELT pipeline design, Airflow orchestration
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ahmad-waleed-65a066299/)
