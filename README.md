@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Ahmad Waleed 👋
 
-<!--
-**Ahmadwaleed11/Ahmadwaleed11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Engineer** | Python · SQL · PostgreSQL · Apache Airflow · Docker
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate transitioning from data analytics into data engineering, focused on building reliable, automated ELT pipelines — from raw API data to a queryable warehouse.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently building: an end-to-end YouTube data pipeline using Airflow, Docker, and PostgreSQL, with data quality testing and CI/CD
+🌱 Currently learning: dbt, SODA data quality checks, and GitHub Actions for pipeline CI/CD
+💬 Ask me about: SQL, Python (pandas), ETL/ELT pipeline design, Airflow orchestration
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ahmad-waleed-65a066299/)
+
+---
+
+**Tech Stack**
+
+`Python` `SQL` `PostgreSQL` `Apache Airflow` `Docker` `pandas` `NumPy` `Git`
+
+**Featured Project**
+
+📌 [YouTube Channel Data ETL Pipeline](https://github.com/Ahmadwaleed11/ETL) — extracts video metadata via the YouTube Data API, orchestrated with Airflow, containerized with Docker.
